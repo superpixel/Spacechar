@@ -1,0 +1,15 @@
+/* Options */
+"HAIR_SPACE" = "▏ Haar Leerzeichen";
+"SIXTH_SPACE" = "▎ Sechstelgeviert";
+"THIN_SPACE" = "▍ Dünnes Leerzeichen";
+"QUARTER_SPACE" = "▌ Viertelgeviert";
+"THIRD_SPACE" = "▋ Drittelgeviert";
+"EN_SPACE" = "▊ Halbgeviert";
+"EM_SPACE" = "▉ Geviert";
+"PUNCTUATION_SPACE" = "❕ Interpunktionsleerzeichen";
+"FIGURE_SPACE" = "1️⃣ Leere Ziffer";
+"NONBREAKING_SPACE" = "🔒 Geschütztes Leerzeichen";
+
+/* Buttons */
+"COPY" = "Kopieren";
+"CANCEL" = "Abbrechen";
