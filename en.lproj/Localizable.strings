@@ -1,0 +1,15 @@
+/* Options */
+"HAIR_SPACE" = "▏ Hair Space";
+"SIXTH_SPACE" = "▎ Sixth Space";
+"THIN_SPACE" = "▍ Thin Space";
+"QUARTER_SPACE" = "▌ Quarter Space";
+"THIRD_SPACE" = "▋ Third Space";
+"EN_SPACE" = "▊ En Space";
+"EM_SPACE" = "▉ Em Space";
+"PUNCTUATION_SPACE" = "❕ Punctuation Space";
+"FIGURE_SPACE" = "1️⃣ Figure Space";
+"NONBREAKING_SPACE" = "🔒 Nonbreaking Space";
+
+/* Buttons */
+"COPY" = "Copy";
+"CANCEL" = Cancel;
