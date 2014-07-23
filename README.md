@@ -8,4 +8,4 @@ How to build?
 
 1. [Download the Spacechar project](https://github.com/superpixel/Spacechar/archive/master.zip).
 2. Unzip.
-3. Drag & Drop `compile.sh` from the Spacechar folder to a Terminal.app window.
+3. Drag & Drop the file 'compile.sh' from the unziped Spacechar folder to a Terminal.app window.
