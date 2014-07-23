@@ -6,6 +6,6 @@ Spacechar is a very simple helper app that present a list of space characters (T
 How to build?
 -------------
 
-1. Download Spacechar as ZIP file.
+1. [Download the Spacechar project](https://github.com/superpixel/Spacechar/archive/master.zip).
 2. Unzip.
-3. Drag & Drop `compile.sh` to a Terminal.app window.
+3. Drag & Drop `compile.sh` from the Spacechar folder to a Terminal.app window.
