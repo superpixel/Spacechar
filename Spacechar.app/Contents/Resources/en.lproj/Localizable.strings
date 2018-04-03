@@ -8,8 +8,8 @@
 "EM_SPACE" = "▉ Em Space";
 "PUNCTUATION_SPACE" = "❕ Punctuation Space";
 "FIGURE_SPACE" = "1️⃣ Figure Space";
-"NONBREAKING_SPACE" = "▊🔒 No-break Space";
-"NARROW_NONBREAKING_SPACE" = "▍🔒 Narrow No-break Space";
+"NONBREAKING_SPACE" = "▊🔒 Nonbreaking Space";
+"NARROW_NONBREAKING_SPACE" = "▍🔒 Narrow Nonbreaking Space";
 
 /* Buttons */
 "COPY" = "Copy";

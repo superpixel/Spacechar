@@ -1,6 +1,6 @@
 (*
-	Spacechar 1.0
-	(c) 2014 Superpixel, Nico Rohrbach
+	Spacechar 1.1
+	(c) 2018 Superpixel, Nico Rohrbach
 *)
 
 on run
@@ -14,7 +14,8 @@ on run
 		(localized string "EM_SPACE"), Â
 		(localized string "PUNCTUATION_SPACE"), Â
 		(localized string "FIGURE_SPACE"), Â
-		(localized string "NONBREAKING_SPACE")} with title Â
+		(localized string "NONBREAKING_SPACE"), Â
+		(localized string "NARROW_NONBREAKING_SPACE")} with title Â
 		"Spacechar" with prompt "" default items Â
 		{(localized string "THIN_SPACE")} OK button name Â
 		(localized string "COPY") cancel button name Â
@@ -49,6 +50,9 @@ on run
 		
 	else if user_selection is {(localized string "NONBREAKING_SPACE")} then
 		set the clipboard to (character id 160)
+		
+	else if user_selection is {(localized string "NARROW_NONBREAKING_SPACE")} then
+		set the clipboard to (character id 8239)
 		
 	end if
 	
